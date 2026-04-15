@@ -1,0 +1,24 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+
+## IDE
+.vs/
+.vscode/
+.idea/
+*.swp
+
+## SQLite database
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+## Secrets
+appsettings.Local.json
